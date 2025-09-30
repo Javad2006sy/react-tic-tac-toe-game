@@ -6,6 +6,8 @@ This project started as the classic **Tic Tac Toe tutorial** from the [React Doc
 
 Think of this repo as my **React learning diary**, where each feature I add is a chapter in the story.
 
+![Game Preview](./screenshot.png)
+
 ---
 
 ## 📖 The Journey So Far
